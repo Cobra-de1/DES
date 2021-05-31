@@ -16,7 +16,7 @@
 
     select from screen (using switch case)
 
-    Case 1: Secret key and IV are randomly chosen for each run time using random generator using CryptoPP::AutoSeededRandomPool;
+    Case 1: Secret key and IV are randomly chosen for each run time using random generator using CryptoPP::AutoSeededRandomPool
 
     Case 2: Input Secret Key and IV from screen
 
@@ -30,7 +30,7 @@
 
 +) Plaintext: 
 
-    - Input from screen;
+    - Input from screen
 
     - Support Vietnamese (UTF-16)
 
