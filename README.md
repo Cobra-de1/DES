@@ -10,7 +10,7 @@
 
     - Select mode from screen (using switch case)
   
-    - Support modes:  ECB, CBC, CBC-CTS, OFB, CFB, CTR, XTS.
+    - Support modes:  ECB, CBC, CBC-CTS, OFB, CFB, CTR, XTS
 
 +) Secret key and Initialization Vector (IV)
 
