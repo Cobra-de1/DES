@@ -25,6 +25,8 @@
 +) OS platform
 
     - Code can compile on both Windows and Linux
+ 
+ [Performance](Performance.md)
 
 ## 2. Using standand c++ library
 
